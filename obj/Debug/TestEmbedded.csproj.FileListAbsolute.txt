@@ -1,0 +1,17 @@
+D:\工程开发\C#\TestEmbedded\bin\Debug\TestEmbedded.exe.config
+D:\工程开发\C#\TestEmbedded\bin\Debug\TestEmbedded.exe
+D:\工程开发\C#\TestEmbedded\bin\Debug\TestEmbedded.pdb
+D:\工程开发\C#\TestEmbedded\obj\Debug\TestEmbedded.csprojAssemblyReference.cache
+D:\工程开发\C#\TestEmbedded\obj\Debug\MainWindowAppContainer.g.cs
+D:\工程开发\C#\TestEmbedded\obj\Debug\App.g.cs
+D:\工程开发\C#\TestEmbedded\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\工程开发\C#\TestEmbedded\obj\Debug\TestEmbedded_MarkupCompile.cache
+D:\工程开发\C#\TestEmbedded\obj\Debug\TestEmbedded_MarkupCompile.lref
+D:\工程开发\C#\TestEmbedded\obj\Debug\Embed\AppContainer.baml
+D:\工程开发\C#\TestEmbedded\obj\Debug\MainWindowAppContainer.baml
+D:\工程开发\C#\TestEmbedded\obj\Debug\TestEmbedded.g.resources
+D:\工程开发\C#\TestEmbedded\obj\Debug\TestEmbedded.Properties.Resources.resources
+D:\工程开发\C#\TestEmbedded\obj\Debug\TestEmbedded.csproj.GenerateResource.cache
+D:\工程开发\C#\TestEmbedded\obj\Debug\TestEmbedded.csproj.CoreCompileInputs.cache
+D:\工程开发\C#\TestEmbedded\obj\Debug\TestEmbedded.exe
+D:\工程开发\C#\TestEmbedded\obj\Debug\TestEmbedded.pdb
